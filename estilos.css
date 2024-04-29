@@ -1,7 +1,7 @@
 body {
     background-color: silver;
     background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/11263042-fundo-abstrato-da-linha-de-circuito-eletronico-azul-escuro-digital-futurista-vetor.jpg);
-    background-position: auto;
+    background-image: 500px;
 }
 div{
     text-align: center;
@@ -19,6 +19,7 @@ h2 {
     font-weight: bold;
     font-family: Verdana;
     text-align: center;
+    padding-top: 25px;
 }
 img {
     text-align: center;
